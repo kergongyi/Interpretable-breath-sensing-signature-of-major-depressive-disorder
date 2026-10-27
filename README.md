@@ -1,1 +1,1 @@
-# A convergent multilevel breath-sensing signature for major depressive disorder screening
+# Interpretable breath-sensing signature of major depressive disorder
